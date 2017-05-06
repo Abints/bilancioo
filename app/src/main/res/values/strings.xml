@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bilancio2</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="radiobutton">RadioButton1</string>
+    <string name="debit_card">Debit card</string>
+    <string name="mm">MM</string>
+</resources>

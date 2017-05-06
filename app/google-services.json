@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "330897542492",
+    "firebase_url": "https://bilancio-e1ad9.firebaseio.com",
+    "project_id": "bilancio-e1ad9",
+    "storage_bucket": "bilancio-e1ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330897542492:android:a2d067624f55df96",
+        "android_client_info": {
+          "package_name": "com.example.abin.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330897542492-09ec0felcdosrfubjlddj3odacnbqijp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abin.chat",
+            "certificate_hash": "8fa9fa2570a41ac5d1cf14a319ce5c8a68754691"
+          }
+        },
+        {
+          "client_id": "330897542492-27888vqi5vopuc61cvvifi2sstjhu34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HqtK4cPolc5OyrshVwrFik4OuLd8YUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330897542492-27888vqi5vopuc61cvvifi2sstjhu34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330897542492:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330897542492-27888vqi5vopuc61cvvifi2sstjhu34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HqtK4cPolc5OyrshVwrFik4OuLd8YUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330897542492:android:cf365887324cbe2f",
+        "android_client_info": {
+          "package_name": "com.example.abin.abcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330897542492-mhpav1b1ksq82a9f08nteck2khu0lhna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abin.abcd",
+            "certificate_hash": "8fa9fa2570a41ac5d1cf14a319ce5c8a68754691"
+          }
+        },
+        {
+          "client_id": "330897542492-27888vqi5vopuc61cvvifi2sstjhu34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HqtK4cPolc5OyrshVwrFik4OuLd8YUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330897542492-27888vqi5vopuc61cvvifi2sstjhu34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330897542492:android:598137527eec75ec",
+        "android_client_info": {
+          "package_name": "com.example.abin.bilancio2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330897542492-v6b3t5pijg1u3fuebhegoughq409t6d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abin.bilancio2",
+            "certificate_hash": "8fa9fa2570a41ac5d1cf14a319ce5c8a68754691"
+          }
+        },
+        {
+          "client_id": "330897542492-27888vqi5vopuc61cvvifi2sstjhu34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HqtK4cPolc5OyrshVwrFik4OuLd8YUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330897542492-27888vqi5vopuc61cvvifi2sstjhu34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
