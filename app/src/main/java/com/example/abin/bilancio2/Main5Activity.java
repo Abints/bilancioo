@@ -104,12 +104,12 @@ public class Main5Activity extends AppCompatActivity {
                 String pa=dataSnapshot.child(cardno).child(mon).child(ye).child(cv).getValue().toString();
                 if(pa.equals(passw))
                 {
+                    myref.child(consume).child(bill).child("Status").setValue("yes");
+
                     Intent i=new Intent(Main5Activity.this,Main6Activity.class);
-                    i.putExtra("bill",bill);
-                    i.putExtra("consume",consume);
                     startActivity(i);
-                    //myref.child(consume).child(bill).child("Status").setValue("yes");
-                    //Toast.makeText(Main5Activity.this, "Payment Success!!", Toast.LENGTH_SHORT).show()
+
+
 
                 }
             }
@@ -120,7 +120,7 @@ public class Main5Activity extends AppCompatActivity {
 
             }
         });
-        //if(myref.child(consume).child(bill).child("Status").equals("yes"))
+
 
     }
 
