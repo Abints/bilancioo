@@ -33,7 +33,7 @@ public class Main3Activity extends AppCompatActivity {
 
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference dataAccess = database.getReference("Consumer");
-        dataAccess.addValueEventListener(new ValueEventListener() {
+        dataAccess.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 String detail=dataSnapshot.child(conume).child(bill).child("pay").getValue().toString();
